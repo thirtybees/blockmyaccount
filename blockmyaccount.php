@@ -39,7 +39,7 @@ class BlockMyAccount extends Module
 
 		parent::__construct();
 
-		$this->displayName = $this->l('My Account block');
+		$this->displayName = $this->l('Block My Account');
 		$this->description = $this->l('Displays a block with links relative to a user\'s account.');
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => '1.6.99.99');
 	}
