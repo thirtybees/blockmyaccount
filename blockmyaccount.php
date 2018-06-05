@@ -40,6 +40,7 @@ class BlockMyAccount extends Module
 
 		$this->displayName = $this->l('Block My Account');
 		$this->description = $this->l('Displays a block with links relative to a user\'s account.');
+		$this->tb_versions_compliancy = '> 1.0.0';
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => '1.6.99.99');
 	}
 
