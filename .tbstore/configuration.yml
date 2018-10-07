@@ -7,6 +7,7 @@ tags:
   - user account
   - login
   - my account
+  - blockmyaccount
 description_short: The block my account adds the login and account functionality for the front of the shop.
 description: description.md
 images:
