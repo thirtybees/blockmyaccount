@@ -32,7 +32,7 @@ class BlockMyAccount extends Module
 	{
 		$this->name = 'blockmyaccount';
 		$this->tab = 'front_office_features';
-		$this->version = '2.1.0';
+		$this->version = '2.1.1';
 		$this->author = 'thirty bees';
 		$this->need_instance = 0;
 
